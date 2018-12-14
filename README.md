@@ -9,24 +9,24 @@ Notes, labs and general content around DataOps (aka "DevOps for Data Science & E
 1. Raw Data Processing
 1. Refined Data Stroage
 1. Refined Data Access
-1. Data Feedback Loop
+1. Data Feedback Loop ("Reingestion"/)
 
 ### Security
 1. AAA (Authentication, Authorization, Accounting)
-  - Login/Credentialing (Authentication)
-  - RBAC/ACLs (Authorization)
-  - Monitoring/Logging/Auditing (Accounting)
+    - Login/Credentialing (Authentication)
+    - RBAC/ACLs (Authorization)
+    - Monitoring/Logging/Auditing (Accounting)
 1. Data Security at Rest (Data Storage Encryption)
-  - Encrpytion Key (Password) Rotation
-    - Time Bound Key Rotation
-    - One Time Passwords
+    - Encrpytion Key (Password) Rotation
+      - Time Bound Key Rotation
+      - One Time Passwords
   - Encryption Key Storage
 1. Data Security in Transit (Data Encryption in Transit w/SSL, mTLS etc)
-  - Service Discovery and Service Access Control Policies (Intents)
+    - Service Discovery and Service Access Control Policies (Intents)
 
 ### DevOps
 1. Infrastructure as Code
-  - Repeatable Idempotent Deployment of App/Infra and Data (AI/ML/AA/DB/Storage) Services
+    - Repeatable Idempotent Deployment of App/Infra and Data (AI/ML/AA/DB/Storage) Services
 1. Data Model (Code) Versioning
 1. Data Source Versioning
 1. Automated Build
