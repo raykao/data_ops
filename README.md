@@ -9,7 +9,7 @@ Notes, labs and general content around DataOps (aka "DevOps for Data Science & E
 1. Raw Data Processing
 1. Refined Data Stroage
 1. Refined Data Access
-1. Data Feedback Loop ("Reingestion"/)
+1. Data Feedback Loop ("Reingestion"/"Remodeling")
 
 ### Security
 1. AAA (Authentication, Authorization, Accounting)
