@@ -20,7 +20,7 @@ Notes, labs and general content around DataOps (aka "DevOps for Data Science & E
     - Encrpytion Key (Password) Rotation
       - Time Bound Key Rotation
       - One Time Passwords
-  - Encryption Key Storage
+    - Encryption Key Storage
 1. Data Security in Transit (Data Encryption in Transit w/SSL, mTLS etc)
     - Service Discovery and Service Access Control Policies (Intents)
 
