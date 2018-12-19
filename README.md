@@ -1,5 +1,7 @@
 # DataOps
-Notes, labs and general content around DataOps (aka "DevOps for Data Science & Engineering", aka "Agile Data Science").  This repository will serve as a source for developing DataOps practices in an Organization, leveraging best practices for simplified, automated and idempotent (re)deployments.
+Notes, labs and general content around DataOps (aka "DevOps for Data Science & Engineering", aka "Agile Data Science").  This repository will serve as a source for developing DataOps practices in an Organization, leveraging best practices for simplified, automated and idempotent (re)deployments.  I will cover topics that start with Open Source options built on VM based solutions and then suggest Managed Public Cloud alternatives on Microsoft Azure. 
+
+**DISCLOSURE** I am an Open Source Technical Specialist working at Microsoft on the Azure Global Black Belt Team in Canada.
 
 ## Areas to consider
 ### Data Estate
@@ -35,4 +37,4 @@ Notes, labs and general content around DataOps (aka "DevOps for Data Science & E
 1. Automated Builds
 1. Data Model Testing
 1. Automated/Gated Releases
-1. Telemetry
+1. Telemetry/Feedback
