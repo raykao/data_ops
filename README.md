@@ -3,6 +3,8 @@ Notes, labs and general content around DataOps (aka "DevOps for Data Science & E
 
 **DISCLOSURE** I am an Open Source Technical Specialist working at Microsoft on the Azure Global Black Belt Team in Canada.
 
+![The Big Picture](images/diagram.png)
+
 ## Areas to consider
 ### Data Estate
 1. Ingestion
